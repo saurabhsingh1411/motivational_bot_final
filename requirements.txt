@@ -3,3 +3,4 @@ requests
 openai
 langchain
 langchain-community
+python-dotenv
